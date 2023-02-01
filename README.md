@@ -1,2 +1,2 @@
 # pacmania
-one pacman is pacman, add another and it becomes pacmany
+one pacman is pacman, add more and it becomes pacmany
